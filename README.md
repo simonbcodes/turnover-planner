@@ -5,7 +5,7 @@ This script takes in 2 CSVs from 2 seperate weeks of classes and generates a CSV
 
 # Basic Operation
 To generate a pairing, the file can be run as follows:
-'''
+```
 python3 turnover_planner.py [past_week.csv] [new_week].csv
-'''
+```
 This outputs a pairings.csv that contains the classrooms to match.
