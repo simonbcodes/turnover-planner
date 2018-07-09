@@ -1,2 +1,6 @@
 *.csv
 *.csv#
+*.pyc
+__pycache__
+*.json
+*.pkl
